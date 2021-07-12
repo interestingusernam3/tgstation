@@ -355,3 +355,30 @@
   carshalash:
   - expansion: Splits eggs into two reagents. Introduces Pavlova, THE great Oceanic
       dessert. Whipped cream is also added.
+2021-07-12:
+  Ghommie:
+  - balance: Railings integrity has been lowered from 300 (default for structures)
+      to 75 (grilles integrity times 1.5) and their armor changed to match that of
+      grilles.
+  - bugfix: Hostile critters such as lobstrosities and giant tarantulas won't throw
+      themselves at you after dying while charging their attack.
+  - bugfix: Fixes the mech mounted teleporter.
+  - bugfix: Fixes intrinsically paralytic mobs being cured from their paralysis just
+      because they got a brand new (prosthetic) limb.
+  Mokiros:
+  - spellcheck: Circuit board for All-In-One Grinder is now named appropriately
+  Paxilmaniac:
+  - bugfix: marine ert engineers spawn with welding goggles instead of nvgs so they
+      can actually weld
+  - bugfix: the metastation genetics monkey pen no longer has a ' in front of its
+      name
+  Time-Green:
+  - bugfix: glasses arent horribly embedded in lizard snouts anymore
+  Watermelon914:
+  - bugfix: Fixed admins getting spammy logs from arrest console circuits.
+  itseasytosee:
+  - bugfix: Syndicate hardsuit helmet sprites will now properly update when combat
+      mode is activated.
+  tf-4:
+  - bugfix: When someone ties a neckerchief near you, it no longer tells you you did
+      it.
